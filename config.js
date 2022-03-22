@@ -47,20 +47,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'KAKA BOT'
-namakontak2 = 'KAKA BOT'
+namakontak1 = 'GTHUB BOT'
+namakontak2 = 'GTHUB BOT'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By KAKA BOT' // ganti aja
-global.author = 'KAKA BOT' // ganti aja
+global.packname = 'By GTHUB BOT' // ganti aja
+global.author = 'GTHUB BOT' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
-footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+bc = 'GTHUB' //KAKA BOT Broadcast
+footer = '\n©GTHUB OFFICIAL BOT'
+namabot = 'GTHUB BOT'
+namalu = 'GTHUB BOT'
 
 
 // 
